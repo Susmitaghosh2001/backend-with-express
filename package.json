@@ -1,0 +1,11 @@
+{
+  "name": "new_backend",
+  "version": "1.0.0",
+  "description": "a backend which i want to create in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "susmita ghosh",
+  "license": "ISC"
+}
